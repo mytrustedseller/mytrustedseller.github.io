@@ -17,7 +17,7 @@
 {
 "name": "DICESTORE | MYTS#0011", 
 "number": "601172322063", 
-"code": "OFFICIAL SELLER MYTS"
+"code": "OFFICIAL SELLER MYTS#0011"
 },
 {
 "name": "SLRMYSHOP | MYTS#0003", 
@@ -25,8 +25,13 @@
 "code": "OFFICIAL ADMIN MYTS & SLRMYSHOP"
 },
 {
+"name": "NIQQSTORE | MYTS#0013", 
+"number": "601113083662", 
+"code": "OFFICIAL SELLER MYTS#0013"
+},
+{
 "name": "QAIXYZ STORE | MYTS#0012", 
 "number": "601121487452", 
-"code": "OFFICIAL SELLER MYTS"
+"code": "OFFICIAL SELLER MYTS#0012"
 }
 ]
